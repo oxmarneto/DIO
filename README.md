@@ -89,4 +89,4 @@ As principais referências e links de acesso incluem:
 
 ---
 
-Feito com auxilio do NotebookLM no Desafio DIO.
+Feito com auxílio do NotebookLM no Desafio DIO.
