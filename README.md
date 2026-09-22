@@ -47,7 +47,7 @@ Ao todo, foram utilizadas **36 fontes**, distribuídas entre:
 * 📄 **10 artigos, livros e TCCs em PDF**;
 * 🎥 **6 vídeos técnicos do YouTube**;
 * 🌐 **6 sites de referência**;
-* 🔎 **14 fontes adicionais identificadas com auxílio de mecanismos de Deep Research**.
+* 🔎 **14 fontes adicionais usando o Deep Research**.
 
 A curadoria buscou combinar fundamentos teóricos, documentação técnica, tutoriais práticos e materiais relacionados ao desenvolvimento de jogos.
 
